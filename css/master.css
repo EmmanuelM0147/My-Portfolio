@@ -71,7 +71,7 @@ body {
   .navbar-default .navbar-toggle:focus { background-color: transparent }
   
   .templatemo-home {
-    background: url('../images/head.jpg/');
+    background: url('./images/head.jpg/');
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
